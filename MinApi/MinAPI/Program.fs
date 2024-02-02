@@ -14,11 +14,12 @@ let eventStore : IEventStore = {
 }
 
 let webApp=
-    Remoting.createApi()
+    Remoting.createApi() 
     |> Remoting.fromValue eventStore
     |> Remoting.buildHttpHandler
 let builder = WebApplication.CreateBuilder()
 builder.Services.AddGiraffe()|>ignore
 let app = builder.Build()
 app.UseGiraffe webApp
-app.Run()
+
+app.Run("http://localhost:8076")
