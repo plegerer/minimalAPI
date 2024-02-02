@@ -44,3 +44,4 @@
 /workspaces/minimalAPI/MinApi/MinAPI/bin/Debug/net7.0/Fable.Remoting.Json.dll
 /workspaces/minimalAPI/MinApi/MinAPI/bin/Debug/net7.0/Fable.Remoting.MsgPack.dll
 /workspaces/minimalAPI/MinApi/MinAPI/bin/Debug/net7.0/Fable.Remoting.Server.dll
+/workspaces/minimalAPI/MinApi/MinAPI/obj/Debug/net7.0/MinApi.sourcelink.json

@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "9i6mlQbIHwwdI1gBxHhSdfd2eNYv2SJ9+/QrQnVxgZ2gj+VUfqam9F/xzog2PPpMffAwc39Z4X36glgN0IMA/w==",
+  "dgSpecHash": "lY1/UL0PHg/NL98PPOjYnqon3hX5CLu4pHap0nNT/yun0J6Oaqmhx83WQiqsiCESu5TYVdL1gfgdOyxIJCtcLg==",
   "success": true,
   "projectFilePath": "/workspaces/minimalAPI/MinApi/MinAPI/MinApi.fsproj",
   "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/fable.remoting.giraffe/5.19.0/fable.remoting.giraffe.5.19.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/fable.remoting.json/2.23.0/fable.remoting.json.2.23.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/fable.remoting.msgpack/1.24.0/fable.remoting.msgpack.1.24.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/fable.remoting.server/5.37.0/fable.remoting.server.5.37.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512",
-    "/home/codespace/.nuget/packages/giraffe/6.2.0/giraffe.6.2.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/giraffe.viewengine/1.4.0/giraffe.viewengine.1.4.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.io.recyclablememorystream/3.0.0/microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
-    "/home/codespace/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+    "/home/vscode/.nuget/packages/fable.remoting.giraffe/5.19.0/fable.remoting.giraffe.5.19.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/fable.remoting.json/2.23.0/fable.remoting.json.2.23.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/fable.remoting.msgpack/1.24.0/fable.remoting.msgpack.1.24.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/fable.remoting.server/5.37.0/fable.remoting.server.5.37.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/fsharp.core/8.0.101/fsharp.core.8.0.101.nupkg.sha512",
+    "/home/vscode/.nuget/packages/giraffe/6.2.0/giraffe.6.2.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/giraffe.viewengine/1.4.0/giraffe.viewengine.1.4.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.io.recyclablememorystream/3.0.0/microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }
