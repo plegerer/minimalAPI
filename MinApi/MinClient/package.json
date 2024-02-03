@@ -1,6 +1,7 @@
 {
   "name": "minclient",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "Program.fs.js",
   "scripts": {
@@ -11,5 +12,9 @@
   "license": "ISC",
   "devDependencies": {
     "vite": "^5.0.12"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
