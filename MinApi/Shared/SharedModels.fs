@@ -9,6 +9,7 @@ type Event =
 type State =
     |Present
     |Absent
+    |Error
 
 type IEventStore = {
     submitEvent : Event -> Async<State>
